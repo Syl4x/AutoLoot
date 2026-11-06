@@ -33,6 +33,7 @@ PixelClicker is an automated Python script designed to perform clicks based on s
 | **F8** | Pick Color | Automatically captures and sets the color of the pixel underneath the mouse pointer[cite: 1]. |
 
 ---
+![image]( https://github.com/Syl4x/PixelClicker-for-albion/blob/main/Untitled.png )
 
 ## How to Check a Pixel Color Code
 If you need to find exact color codes for your detectors, follow these steps[cite: 1]:

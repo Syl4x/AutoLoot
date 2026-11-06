@@ -45,6 +45,8 @@ Select the Color Picker (Eyedropper) tool and click on your target color[cite: 1
 
 Go to Edit Colors to view and copy the exact RGB color code values[cite: 1].
 
+![image](https://github.com/Syl4x/PixelClicker-for-albion/blob/main/Screenshot%202026-11-06%20144545.png)
+
 Disclaimer
 This script is created strictly for educational and automation testing purposes[cite: 1]. Using automation scripts may violate the terms of service of certain applications or games; use it at your own discretion[cite: 1].
 ## Configuration Settings

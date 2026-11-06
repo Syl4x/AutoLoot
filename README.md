@@ -35,6 +35,15 @@ PixelClicker is an automated Python script designed to perform clicks based on s
 ---
 ![image]( https://github.com/Syl4x/PixelClicker-for-albion/blob/main/Untitled.png )
 
+You can customize core behavior settings at the top of the script[cite: 1]:
+
+```python
+GAME_WINDOW_TITLE = "Albion Online Client"  # Target game or application window title
+TOLERANCE = 30                              # Color matching range/deviation threshold (RGB)
+SCAN_WIDTH = 80                             # Width of the detector scan box
+SCAN_HEIGHT = 30                            # Height of the detector scan box
+```
+
 ## How to Check a Pixel Color Code
 If you need to find exact color codes for your detectors, follow these steps[cite: 1]:
 
@@ -52,10 +61,3 @@ Disclaimer
 This script is created strictly for educational and automation testing purposes[cite: 1]. Using automation scripts may violate the terms of service of certain applications or games; use it at your own discretion[cite: 1].
 ## Configuration Settings
 
-You can customize core behavior settings at the top of the script[cite: 1]:
-
-```python
-GAME_WINDOW_TITLE = "Albion Online Client"  # Target game or application window title
-TOLERANCE = 30                              # Color matching range/deviation threshold (RGB)
-SCAN_WIDTH = 80                             # Width of the detector scan box
-SCAN_HEIGHT = 30                            # Height of the detector scan box

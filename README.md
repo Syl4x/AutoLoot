@@ -43,3 +43,13 @@ GAME_WINDOW_TITLE = "Albion Online Client"  # Target game or application window 
 TOLERANCE = 30                              # Color matching range/deviation threshold (RGB)
 SCAN_WIDTH = 80                             # Width of the detector scan box
 SCAN_HEIGHT = 30                            # Height of the detector scan box
+
+## How to Check a Pixel Color Code
+If you need to find exact color codes for your detectors, follow these steps[cite: 1]:
+1. Take a screenshot of the exact target area where you want to detect the color[cite: 1].
+2. Open MS Paint (or any image editor) and paste the screenshot into it[cite: 1].
+3. Select the Color Picker (Eyedropper) tool and click on your target color[cite: 1].
+4. Go to Edit Colors to view and copy the exact RGB color code values[cite: 1].
+
+## Disclaimer
+This script is created strictly for educational and automation testing purposes[cite: 1]. Using automation scripts may violate the terms of service of certain applications or games; use it at your own discretion[cite: 1].

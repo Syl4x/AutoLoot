@@ -37,6 +37,8 @@ PixelClicker is an automated Python script designed to perform clicks based on s
 ---
 ![image]( https://github.com/Syl4x/PixelClicker-for-albion/blob/main/Untitled.png )
 
+## Configuration Settings
+
 You can customize core behavior settings at the top of the script[cite: 1]:
 
 ```python
@@ -71,5 +73,5 @@ Gas fees are high, but my caffeine dependency is higher. Please make sure to use
 
 Disclaimer
 This script is created strictly for educational and automation testing purposes[cite: 1]. Using automation scripts may violate the terms of service of certain applications or games; use it at your own discretion[cite: 1].
-## Configuration Settings
+
 

@@ -61,11 +61,9 @@ Go to Edit Colors to view and copy the exact RGB color code values[cite: 1].
 
 Gas fees are high, but my caffeine dependency is higher. Please make sure to use the **correct network**, or your donation will burn in the digital abyss! 🔥
 
-| Asset | Network | Address |
-| :--- | :--- | :--- |
-| **Bitcoin (BTC)** | Bitcoin | `164tkjTEZBSYxY3JbhFNthJ6d8AH4rnU5m` |
-| **Ethereum (ETH)** | Ethereum (ERC-20) | `0x0258ddf85a7f37726b9cd84f25d51c13f4f02396` |
-| **USDT** | Tron (TRC-20) *[Low Fee]* | `TPhtF39AFrGqeN8SpSYQF2a5JHrrmDxBhP` |
+* **BTC:** `164tkjTEZBSYxY3JbhFNthJ6d8AH4rnU5m` (Network: Bitcoin)
+* **ETH:** `0x0258ddf85a7f37726b9cd84f25d51c13f4f02396` (Network: Ethereum ERC-20)
+* **USDT:** `TPhtF39AFrGqeN8SpSYQF2a5JHrrmDxBhP` (Network: Tron TRC-20)
 
 *Note: Double-check the network before sending. My code works, but I can't debug the blockchain! 💸*
 

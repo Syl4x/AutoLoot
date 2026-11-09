@@ -4,6 +4,8 @@ PixelClicker is an automated Python script designed to perform clicks based on s
 
 ---
 
+** This script only works if the game is in windowed or borderless mode. **
+
 ## Features
 
 - **Auto-Dependency Installation:** Automatically checks and installs all missing required Python libraries (`pyautogui`, `keyboard`, `mss`, `numpy`, `pillow`, etc.) upon startup.

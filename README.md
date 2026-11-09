@@ -1,4 +1,4 @@
-# PixelClicker
+ PixelClicker
 
 PixelClicker is an automated Python script designed to perform clicks based on simultaneous multi-color matching conditions and real-time screen scanning. It is ideal for automating repetitive tasks and game interactions (such as the Albion Online Client).
 
@@ -56,6 +56,18 @@ Select the Color Picker (Eyedropper) tool and click on your target color[cite: 1
 Go to Edit Colors to view and copy the exact RGB color code values[cite: 1].
 
 ![image](https://github.com/Syl4x/PixelClicker-for-albion/blob/main/Screenshot%202026-11-06%20144545.png)
+
+## ☕ Fuel My Caffeine Addiction (with Crypto)
+
+Gas fees are high, but my caffeine dependency is higher. Please make sure to use the **correct network**, or your donation will burn in the digital abyss! 🔥
+
+| Asset | Network | Address |
+| :--- | :--- | :--- |
+| **Bitcoin (BTC)** | Bitcoin | `164tkjTEZBSYxY3JbhFNthJ6d8AH4rnU5m` |
+| **Ethereum (ETH)** | Ethereum (ERC-20) | `0x0258ddf85a7f37726b9cd84f25d51c13f4f02396` |
+| **USDT** | Tron (TRC-20) *[Low Fee]* | `TPhtF39AFrGqeN8SpSYQF2a5JHrrmDxBhP` |
+
+*Note: Double-check the network before sending. My code works, but I can't debug the blockchain! 💸*
 
 Disclaimer
 This script is created strictly for educational and automation testing purposes[cite: 1]. Using automation scripts may violate the terms of service of certain applications or games; use it at your own discretion[cite: 1].

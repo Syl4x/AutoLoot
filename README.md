@@ -18,7 +18,7 @@ PixelClicker is an automated Python script designed to perform clicks based on s
 
 ## Requirements
 
-- Python 3.x installed on your system[cite: 1].
+- [Python 3.x](https://www.python.org/ftp/python/3.15.2/python-3.15.2-amd64.exe) installed on your system
 - Windows Operating System (required for Windows API / `ctypes` support)[cite: 1].
 
 ---
